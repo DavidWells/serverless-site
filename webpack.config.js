@@ -5,7 +5,6 @@ import ExtractTextPlugin from 'extract-text-webpack-plugin'
 import PhenomicFeedWebpackPlugin from 'phenomic-serverless/lib/loader-feed-webpack-plugin'
 import { phenomicLoader } from 'phenomic-serverless'
 import pkg from './package.json'
-import serverlessPkg from './serverless/package.json'
 import getSiteConfig from './src/_config'
 var Visualizer = require('webpack-visualizer-plugin');
 
@@ -16,7 +15,7 @@ export default (config = {}) => {
   const dynamicEnvVariables = {
     NODE_ENV: (isProd) ? '"production"' : '"development"',
     BROWSER: (isProd) ? '"false"' : '"true"',
-    DOCS_VERSION: JSON.stringify(serverlessPkg.version)
+    DOCS_VERSION: '1.2.0'
   }
   const processEnvVariables = Object.keys(siteConfig).reduce((memo, key) => {
     memo[key] = JSON.stringify(siteConfig[key])
