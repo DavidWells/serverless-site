@@ -2,7 +2,7 @@
 title: 'Serverless - Auth0 Webtasks - CLI Reference'
 menuText: 'CLI Reference'
 layout: Doc
-gitLink: /docs/providers/webtasks/cli-reference/README.md
+gitLink: /docs/providers/webtasks/cli-reference/index.md
 ---
 
 # Serverless Auth0 Webtasks CLI Reference

@@ -19,7 +19,7 @@ docker run --name fnserver --rm -i -v $(pwd)/data:/app/data -v \
 --entrypoint ./fnserver fnproject/fnserver
 ```
 
-For more advanced and robust install options see: [Operating FN](https://github.com/fnproject/fn/blob/master/docs/README.md#for-operators)
+For more advanced and robust install options see: [Operating FN](https://github.com/fnproject/fn/blob/master/docs/index.md#for-operators)
 
 ## Installing the Serverless Framework
 

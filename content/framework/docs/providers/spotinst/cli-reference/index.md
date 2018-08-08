@@ -3,7 +3,7 @@ title: 'Serverless - Spotinst Functions - CLI Reference'
 menuText: 'CLI Reference'
 layout: Doc
 menuOrder: 2
-gitLink: /docs/providers/spotinst/cli-reference/README.md
+gitLink: /docs/providers/spotinst/cli-reference/index.md
 ---
 
 # Serverless Spotinst Functions CLI Reference

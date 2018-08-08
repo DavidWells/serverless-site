@@ -3,7 +3,7 @@ title: 'Hello World Example'
 menuText: 'Hello World Example'
 description: 'Example of creating Hello World functions with the Serverless framework'
 layout: Doc
-gitLink: /docs/providers/openwhisk/examples/hello-world/README.md
+gitLink: /docs/providers/openwhisk/examples/hello-world/index.md
 ---
 
 # Hello World Serverless Example 🌍

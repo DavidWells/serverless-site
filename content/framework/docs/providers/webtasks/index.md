@@ -2,7 +2,7 @@
 title: 'Serverless - Webtasks Documentation'
 menuText: Webtasks
 layout: Doc
-gitLink: /docs/providers/webtasks/README.md
+gitLink: /docs/providers/webtasks/index.md
 ---
 
 # Webtasks Provider Documentation

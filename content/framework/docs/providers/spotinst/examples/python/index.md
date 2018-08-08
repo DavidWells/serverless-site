@@ -3,7 +3,7 @@ title: 'Hello World Python Example'
 menuText: 'Hello World Python Example'
 description: 'Create a Python Hello World function'
 layout: Doc
-gitLink: /docs/providers/spotinst/examples/python/README.md
+gitLink: /docs/providers/spotinst/examples/python/index.md
 ---
 
 # Hello World Python Example

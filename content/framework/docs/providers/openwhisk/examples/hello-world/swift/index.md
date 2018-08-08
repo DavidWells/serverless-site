@@ -3,7 +3,7 @@ title: 'Hello World Swift Example'
 menuText: 'Hello World Swift Example'
 description: 'Create a Swift Hello World OpenWhisk function'
 layout: Doc
-gitLink: /docs/providers/openwhisk/examples/hello-world/swift/README.md
+gitLink: /docs/providers/openwhisk/examples/hello-world/swift/index.md
 ---
 
 # Hello World Swift Example

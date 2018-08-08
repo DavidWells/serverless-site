@@ -2,7 +2,7 @@
 title: 'Serverless - AWS Lambda - Events'
 menuText: 'AWS Events'
 layout: Doc
-gitLink: /docs/providers/aws/events/README.md
+gitLink: /docs/providers/aws/events/index.md
 ---
 
 # Serverless AWS Lambda Events

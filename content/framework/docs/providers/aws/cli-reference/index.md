@@ -2,7 +2,7 @@
 title: 'Serverless - AWS Lambda - CLI Reference'
 menuText: 'CLI Reference'
 layout: Doc
-gitLink: /docs/providers/aws/cli-reference/README.md
+gitLink: /docs/providers/aws/cli-reference/index.md
 ---
 
 # Serverless AWS Lambda CLI Reference

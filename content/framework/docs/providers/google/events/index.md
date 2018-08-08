@@ -2,7 +2,7 @@
 title: 'Google Cloud Functions Serverless Events'
 menuText: 'Google Functions Events'
 layout: Doc
-gitLink: /docs/providers/google/events/README.md
+gitLink: /docs/providers/google/events/index.md
 ---
 
 # Serverless Google Cloud Functions Events

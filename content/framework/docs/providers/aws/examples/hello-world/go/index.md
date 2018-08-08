@@ -3,7 +3,7 @@ title: 'Hello World Go Example'
 menuText: 'Hello World Go Example'
 description: 'Create a Go Hello World Lambda function'
 layout: Doc
-gitLink: /docs/providers/aws/examples/hello-world/go/README.md
+gitLink: /docs/providers/aws/examples/hello-world/go/index.md
 ---
 
 # Hello World Go Example

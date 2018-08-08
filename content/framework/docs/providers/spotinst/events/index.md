@@ -3,7 +3,7 @@ title: 'Serverless - Spotinst Functions - Events'
 menuText: 'Spotinst Events'
 layout: Doc
 menuOrder: 3
-gitLink: /docs/providers/spotinst/events/README.md
+gitLink: /docs/providers/spotinst/events/index.md
 ---
 
 # Serverless Spotinst Functions Events

@@ -2,7 +2,7 @@
 title: 'Serverless - Kubeless - CLI Reference'
 menuText: 'CLI Reference'
 layout: Doc
-gitLink: /docs/providers/kubeless/cli-reference/README.md
+gitLink: /docs/providers/kubeless/cli-reference/index.md
 ---
 
 # Serverless Kubeless CLI Reference

@@ -2,7 +2,7 @@
 title: 'Serverless - Google Cloud Functions - CLI Reference'
 menuText: 'CLI Reference'
 layout: Doc
-gitLink: /docs/providers/google/cli-reference/README.md
+gitLink: /docs/providers/google/cli-reference/index.md
 ---
 
 # Serverless Google Cloud Functions CLI Reference

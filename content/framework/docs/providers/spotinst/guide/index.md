@@ -3,7 +3,7 @@ title: 'Serverless - Spotinst Functions Guide'
 menuText: 'User Guide'
 layout: Doc
 menuOrder: 1
-gitLink: /docs/providers/spotinst/guide/README.md
+gitLink: /docs/providers/spotinst/guide/index.md
 ---
 
 # Serverless Spotinst Functions Guide

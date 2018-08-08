@@ -3,7 +3,7 @@ title: 'Hello World Ruby Example'
 menuText: 'Hello World Ruby Example'
 description: 'Create a Ruby Hello World function'
 layout: Doc
-gitLink: /docs/providers/spotinst/examples/ruby/README.md
+gitLink: /docs/providers/spotinst/examples/ruby/index.md
 ---
 
 # Hello World Ruby Example

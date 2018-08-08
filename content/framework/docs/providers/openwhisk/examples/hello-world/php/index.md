@@ -3,7 +3,7 @@ title: 'Hello World PHP Example'
 menuText: 'Hello World PHP Example'
 description: 'Create a PHP Hello World OpenWhisk function'
 layout: Doc
-gitLink: /docs/providers/openwhisk/examples/hello-world/php/README.md
+gitLink: /docs/providers/openwhisk/examples/hello-world/php/index.md
 ---
 
 # Hello World PHP Example

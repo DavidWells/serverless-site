@@ -2,7 +2,7 @@
 title: 'Serverless - Platform Documentation'
 menuText: commands
 layout: Doc
-gitLink: /docs/platform/commands/README.md
+gitLink: /docs/platform/commands/index.md
 ---
 
 ## Beta CLI Commands

@@ -2,7 +2,7 @@
 title: 'Serverless - Azure Functions - Events'
 menuText: 'Azure Events'
 layout: Doc
-gitLink: /docs/providers/azure/events/README.md
+gitLink: /docs/providers/azure/events/index.md
 ---
 
 # Serverless Azure Functions Events

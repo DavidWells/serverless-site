@@ -2,7 +2,7 @@
 title: 'Serverless - Fn Documentation'
 menuText: Fn
 layout: Doc
-gitLink: /docs/providers/fn/README.md
+gitLink: /docs/providers/fn/index.md
 ---
 
 # Fn Provider Documentation

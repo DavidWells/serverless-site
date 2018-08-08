@@ -2,7 +2,7 @@
 title: 'Serverless - Spotinst Documentation'
 menuText: Spotinst
 layout: Doc
-gitLink: /docs/providers/spotinst/README.md
+gitLink: /docs/providers/spotinst/index.md
 ---
 
 # Spotinst Provider Documentation

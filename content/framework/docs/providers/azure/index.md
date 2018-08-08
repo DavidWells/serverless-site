@@ -2,7 +2,7 @@
 title: 'Serverless - Azure Functions Documentation'
 menuText: Azure
 layout: Doc
-gitLink: /docs/providers/azure/README.md
+gitLink: /docs/providers/azure/index.md
 ---
 
 # Azure Functions Provider Documentation

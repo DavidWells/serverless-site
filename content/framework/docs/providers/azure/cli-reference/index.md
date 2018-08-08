@@ -2,7 +2,7 @@
 title: 'Serverless - Azure Functions - CLI Reference'
 menuText: 'CLI Reference'
 layout: Doc
-gitLink: /docs/providers/azure/cli-reference/README.md
+gitLink: /docs/providers/azure/cli-reference/index.md
 ---
 
 # Serverless Azure Functions CLI Reference

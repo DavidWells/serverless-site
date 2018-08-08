@@ -2,7 +2,7 @@
 title: 'Serverless - Fn - Events'
 menuText: 'Fn Events'
 layout: Doc
-gitLink: /docs/providers/fn/events/README.md
+gitLink: /docs/providers/fn/events/index.md
 ---
 
 # Serverless Fn Events

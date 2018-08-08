@@ -2,7 +2,7 @@
 title: 'Serverless - Kubeless - Events'
 menuText: 'Kubeless Events'
 layout: Doc
-gitLink: /docs/providers/kubeless/events/README.md
+gitLink: /docs/providers/kubeless/events/index.md
 ---
 
 # Serverless Kubeless Events

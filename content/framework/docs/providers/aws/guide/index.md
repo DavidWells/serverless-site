@@ -2,7 +2,7 @@
 title: 'Serverless - AWS Guide'
 menuText: 'User Guide'
 layout: Doc
-gitLink: /docs/providers/aws/guide/README.md
+gitLink: /docs/providers/aws/guide/index.md
 ---
 
 # Serverless AWS Lambda Guide

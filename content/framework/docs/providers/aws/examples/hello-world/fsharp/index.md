@@ -3,7 +3,7 @@ title: 'Hello World F# Example'
 menuText: 'Hello World F# Example'
 description: 'Create a F# Hello World Lambda function'
 layout: Doc
-gitLink: /docs/providers/aws/examples/hello-world/fsharp/README.md
+gitLink: /docs/providers/aws/examples/hello-world/fsharp/index.md
 ---
 <!-- DOCS-SITE-LINK:START automatically generated  -->
 ### [Read this on the main serverless docs site](https://www.serverless.com/framework/docs/providers/aws/examples/hello-world/fsharp/)

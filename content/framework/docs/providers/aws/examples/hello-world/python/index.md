@@ -3,7 +3,7 @@ title: 'Hello World Python Example'
 menuText: 'Hello World Python Example'
 description: 'Create a Python Hello World Lambda function'
 layout: Doc
-gitLink: /docs/providers/aws/examples/hello-world/python/README.md
+gitLink: /docs/providers/aws/examples/hello-world/python/index.md
 ---
 
 # Hello World Python Example

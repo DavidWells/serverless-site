@@ -3,7 +3,7 @@ title: 'Hello World Example'
 menuText: 'Hello World Example'
 description: 'Example of creating a Hello World function in Node.js with the Serverless framework'
 layout: Doc
-gitLink: /docs/providers/azure/examples/hello-world/README.md
+gitLink: /docs/providers/azure/examples/hello-world/index.md
 ---
 
 # Hello World Serverless Example 🌍

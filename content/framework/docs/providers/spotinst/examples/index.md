@@ -4,7 +4,7 @@ menuText: 'Hello World Example'
 description: 'Example of creating a Hello World function in Node.js and Python with the Serverless framework'
 layout: Doc
 menuOrder: 4
-gitLink: /docs/providers/spotinst/examples/README.md
+gitLink: /docs/providers/spotinst/examples/index.md
 ---
 
 # Hello World Serverless Example 

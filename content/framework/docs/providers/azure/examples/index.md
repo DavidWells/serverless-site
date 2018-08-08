@@ -2,7 +2,7 @@
 title: 'Serverless - Azure Functions - Examples'
 menuText: Examples
 layout: Doc
-gitLink: /docs/providers/azure/examples/README.md
+gitLink: /docs/providers/azure/examples/index.md
 ---
 
 # Serverless Azure Functions Examples

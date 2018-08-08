@@ -3,7 +3,7 @@ title: 'Hello World Javas8 Example'
 menuText: 'Hello World Java8 Example'
 description: 'Create a Java8 Hello World function'
 layout: Doc
-gitLink: /docs/providers/spotinst/examples/java8/README.md
+gitLink: /docs/providers/spotinst/examples/java8/index.md
 ---
 
 # Hello World Java8 Example

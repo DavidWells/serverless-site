@@ -2,7 +2,7 @@
 title: 'Serverless - Apache OpenWhisk - Examples'
 menuText: Examples
 layout: Doc
-gitLink: /docs/providers/openwhisk/examples/README.md
+gitLink: /docs/providers/openwhisk/examples/index.md
 ---
 
 # Serverless Apache OpenWhisk Examples

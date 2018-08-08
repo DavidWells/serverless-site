@@ -2,7 +2,7 @@
 title: 'Serverless - Fn - CLI Reference'
 menuText: 'CLI Reference'
 layout: Doc
-gitLink: /docs/providers/fn/cli-reference/README.md
+gitLink: /docs/providers/fn/cli-reference/index.md
 ---
 
 # Serverless Fn CLI Reference

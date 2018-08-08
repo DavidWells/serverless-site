@@ -2,7 +2,7 @@
 title: 'Serverless - Apache OpenWhisk - Events'
 menuText: 'OpenWhisk Events'
 layout: Doc
-gitLink: /docs/providers/openwhisk/events/README.md
+gitLink: /docs/providers/openwhisk/events/index.md
 ---
 
 # Serverless Apache OpenWhisk Events

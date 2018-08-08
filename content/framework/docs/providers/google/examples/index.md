@@ -2,7 +2,7 @@
 title: 'Serverless - Google Cloud Functions - Examples'
 menuText: Examples
 layout: Doc
-gitLink: /docs/providers/google/examples/README.md
+gitLink: /docs/providers/google/examples/index.md
 ---
 
 # Serverless Google Cloud Functions Examples

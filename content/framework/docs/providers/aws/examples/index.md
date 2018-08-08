@@ -2,7 +2,7 @@
 title: 'Serverless - AWS Lambda - Examples'
 menuText: Examples
 layout: Doc
-gitLink: /docs/providers/aws/examples/README.md
+gitLink: /docs/providers/aws/examples/index.md
 ---
 
 # Serverless AWS Lambda Examples

@@ -2,7 +2,7 @@
 title: 'Serverless - Azure Functions'
 menuText: Guide
 layout: Doc
-gitLink: /docs/providers/azure/guide/README.md
+gitLink: /docs/providers/azure/guide/index.md
 ---
 
 # Serverless Azure Functions Guide

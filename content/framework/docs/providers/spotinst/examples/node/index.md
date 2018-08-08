@@ -3,7 +3,7 @@ title: 'Hello World Javascript Example'
 menuText: 'Hello World JavaScript Example'
 description: 'Create a JavaScript Hello World function'
 layout: Doc
-gitLink: /docs/providers/spotinst/examples/node/README.md
+gitLink: /docs/providers/spotinst/examples/node/index.md
 ---
 
 # Hello World JavaScript Example

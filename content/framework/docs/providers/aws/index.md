@@ -2,7 +2,7 @@
 title: 'Serverless - AWS Documentation'
 menuText: AWS
 layout: Doc
-gitLink: /docs/providers/aws/README.md
+gitLink: /docs/providers/aws/index.md
 ---
 
 # AWS Provider Documentation

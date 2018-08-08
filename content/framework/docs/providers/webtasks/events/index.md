@@ -2,7 +2,7 @@
 title: 'Serverless - Auth0 Webtasks - Events'
 menuText: 'Auth0 Webtasks Events'
 layout: Doc
-gitLink: /docs/providers/webtasks/events/README.md
+gitLink: /docs/providers/webtasks/events/index.md
 ---
 
 # Serverless Auth0 Webtasks Events

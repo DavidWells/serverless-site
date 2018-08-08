@@ -2,7 +2,7 @@
 title: 'Serverless - Apache OpenWhisk - CLI Reference'
 menuText: 'CLI Reference'
 layout: Doc
-gitLink: /docs/providers/openwhisk/cli-reference/README.md
+gitLink: /docs/providers/openwhisk/cli-reference/index.md
 ---
 
 # Serverless Apache OpenWhisk CLI Reference

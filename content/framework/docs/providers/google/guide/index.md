@@ -2,7 +2,7 @@
 title: 'Serverless - Google Cloud Functions'
 menuText: Guide
 layout: Doc
-gitLink: /docs/providers/google/guide/README.md
+gitLink: /docs/providers/google/guide/index.md
 ---
 
 # Serverless Google Cloud Functions Guide

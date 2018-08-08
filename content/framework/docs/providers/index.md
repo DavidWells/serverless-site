@@ -2,7 +2,7 @@
 title: 'Serverless - Infrastructure & Compute Providers'
 menuText: Providers
 layout: Doc
-gitLink: /docs/providers/README.md
+gitLink: /docs/providers/index.md
 ---
 
 # Serverless Infrastructure Providers

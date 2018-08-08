@@ -3,7 +3,7 @@ title: 'Hello World Node.js Example'
 menuText: 'Hello World Node.js Example'
 description: 'Create a Node.js Hello World Google Cloud Functions function'
 layout: Doc
-gitLink: /docs/providers/google/examples/hello-world/node/README.md
+gitLink: /docs/providers/google/examples/hello-world/node/index.md
 ---
 
 # Hello World Node.js Example

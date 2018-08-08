@@ -3,7 +3,7 @@ title: 'Hello World C# Example'
 menuText: 'Hello World C# Example'
 description: 'Create a C# Hello World Lambda function'
 layout: Doc
-gitLink: /docs/providers/aws/examples/hello-world/csharp/README.md
+gitLink: /docs/providers/aws/examples/hello-world/csharp/index.md
 ---
 
 # Hello World C# Example

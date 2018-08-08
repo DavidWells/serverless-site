@@ -13,7 +13,7 @@ menuItems:
     - {menuText: '- Kubeless', path: /framework/docs/providers/kubeless/}
     - {menuText: '- Spotinst', path: /framework/docs/providers/spotinst/}
     - {menuText: '- Webtasks', path: /framework/docs/providers/webtasks/}
-gitLink: /docs/README.md
+gitLink: /docs/index.md
 ---
 
 # Documentation

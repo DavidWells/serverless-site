@@ -2,7 +2,7 @@
 title: 'Serverless - Apache OpenWhisk'
 menuText: Guide
 layout: Doc
-gitLink: /docs/providers/openwhisk/guide/README.md
+gitLink: /docs/providers/openwhisk/guide/index.md
 ---
 
 # Serverless Apache OpenWhisk Guide

@@ -2,7 +2,7 @@
 title: 'Serverless - Auth0 Webtasks'
 menuText: Guide
 layout: Doc
-gitLink: /docs/providers/webtasks/guide/README.md
+gitLink: /docs/providers/webtasks/guide/index.md
 ---
 
 # Serverless Auth0 Webtasks Guide

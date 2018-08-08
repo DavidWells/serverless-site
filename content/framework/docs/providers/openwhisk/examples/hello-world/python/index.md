@@ -3,7 +3,7 @@ title: 'Hello World Python Example'
 menuText: 'Hello World Python Example'
 description: 'Create a Python Hello World OpenWhisk function'
 layout: Doc
-gitLink: /docs/providers/openwhisk/examples/hello-world/python/README.md
+gitLink: /docs/providers/openwhisk/examples/hello-world/python/index.md
 ---
 
 # Hello World Python Example

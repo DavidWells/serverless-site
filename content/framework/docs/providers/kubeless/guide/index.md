@@ -2,7 +2,7 @@
 title: 'Serverless - Kubeless'
 menuText: Guide
 layout: Doc
-gitLink: /docs/providers/kubeless/guide/README.md
+gitLink: /docs/providers/kubeless/guide/index.md
 ---
 
 # Serverless Kubeless Guide

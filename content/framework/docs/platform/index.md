@@ -7,7 +7,7 @@ menuItems:
     - {menuText: login, path: /framework/docs/platform/commands/login/}
     - {menuText: logout, path: /framework/docs/platform/commands/logout/}
     - {menuText: run, path: /framework/docs/platform/commands/run/}
-gitLink: /docs/platform/README.md
+gitLink: /docs/platform/index.md
 ---
 
 # Serverless Platform (Beta)
