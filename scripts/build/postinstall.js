@@ -68,32 +68,6 @@ if (process.env.IS_NETLIFY_ENV) {
       console.log('Local Blog Repo found')
       updateRepo(blogRepoPath)
     }
-
-    // Handle docs folder
-    const docsExists = fileOrDirExists(docsRepoPath)
-    const docsIsGitRepo = fileOrDirExists(path.join(docsRepoPath, '.git'))
-    if (!docsExists) {
-      // check for git  path.join(blogRepoPath, '.git')
-      console.log('No serverless docs repo found. Clone it from github')
-      console.log(seperator)
-      console.log('NOTE: serverless docs repo is big. Might take a minute to download')
-      cloneRepo(docsGithubURL, docsConfig.repoBranch, 'serverless')
-    }
-    if (docsExists && !docsIsGitRepo) {
-      console.log('Docs folder exists but isn\'t github repo')
-      rimraf(docsRepoPath, () => {
-        console.log('Empty ./serverless directory and clone repo')
-        cloneRepo(docsGithubURL, docsConfig.repoBranch, 'serverless')
-      })
-    } else {
-      // console.log(`Local Docs Repo found`)
-      // updateRepo(docsRepoPath)
-      // console.log(seperator)
-    }
-    if (docsIsGitRepo) {
-      console.log('Local Docs Repo found')
-      updateRepo(docsRepoPath)
-    }
   })
 }
 // TODO: replace clone with https://github.com/tunnckoCore/gitclone

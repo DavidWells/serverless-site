@@ -232,7 +232,7 @@ class Doc extends Component {
         </div>
       )
     } else {
-      githubURL = `https://github.com/serverless/serverless/edit/master${head.gitLink}`
+      githubURL = `https://github.com/DavidWells/serverless-site/edit/master/content/framework${head.gitLink}`
       markdownContent = (
         <BodyContainer>
           {body}
