@@ -15,7 +15,7 @@ export default (config = {}) => {
   const dynamicEnvVariables = {
     NODE_ENV: (isProd) ? '"production"' : '"development"',
     BROWSER: (isProd) ? '"false"' : '"true"',
-    DOCS_VERSION: '1.2.0'
+    DOCS_VERSION: '"1.2.0"'
   }
   const processEnvVariables = Object.keys(siteConfig).reduce((memo, key) => {
     memo[key] = JSON.stringify(siteConfig[key])
