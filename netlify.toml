@@ -1,3 +1,15 @@
+[build]
+  # This will be run the site build
+  command = "npm run buildprod"
+  # This is the directory is publishing to netlify's CDN
+  publish = "/dist"
+
+# Values needed for site to build
+[template.environment]
+  AUTH0_CLIENT_ID = "Your Auth0 Client ID"
+  AUTH0_DOMAIN = "Your Auth0 domain"
+
+# Custom headers
 [[headers]]
   for = "/_/src/assets/fonts/*"
   [headers.values]
