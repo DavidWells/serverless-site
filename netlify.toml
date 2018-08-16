@@ -14,3 +14,8 @@
   for = "/_/src/assets/fonts/*"
   [headers.values]
     Cache-Control = "public, max-age: 31536000"
+
+[[redirects]]
+  from = "/api/*"
+  to = "https://docs-editing-flow-api.netlify.com/:splat"
+  status = 200
