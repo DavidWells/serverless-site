@@ -1,4 +1,4 @@
-# [Serverless Site](https://serverless.com/) 
+# [Serverless Site](https://serverless.com/) &nbsp;&nbsp;&nbsp;<a href="https://app.netlify.com/start/deploy?repository=https://github.com/DavidWells/serverless-site"><img src="https://www.netlify.com/img/deploy/button.svg"></a>
 
 This site is 100% serverless! :tada:
 
