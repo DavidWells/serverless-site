@@ -29,7 +29,7 @@ function execute(command, callback) {
 // Check if user used ssh with github
 
 console.log('cwd', cwd)
-if (process.env.IS_NETLIFY_ENV) {
+if (process.env.DEPLOY_PRIME_URL) {
   console.log('in NETLIFY CI context, don\'t clone stuff just download it')
 } else if (cwd.indexOf('node_modules') > -1) {
   console.log('in node_module context, don\'t clone/download extra stuff')

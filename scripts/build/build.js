@@ -3,7 +3,7 @@ const cwd = process.cwd()
 const path = require('path')
 const exec = require('child_process').exec
 
-if (process.env.IS_NETLIFY_ENV) {
+if (process.env.DEPLOY_PRIME_URL) {
   console.log('in NETLIFY_ENV context')
   // do stuff
 } else {
